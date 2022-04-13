@@ -286,32 +286,32 @@ namespace evolution_nodes
   
   const char *const MAINNET_NODES[] =
   {
-    "144.217.242.16",
-    "161.97.102.172",
-    "it-support.mal-bit.com",
-    "207.244.249.105",
-    "139.99.106.122",
-    "164.68.123.118",
-    "209.126.84.37"
+    "62.171.142.111",   //node1-GB
+    "164.68.127.234",   //node2-GB
+    "79.143.181.203",   //node3-GB
+    "130.162.220.200",  //oraclenode1-Frankfurt
+    "141.144.237.74",   //oraclenode2-Frankfurt
+    "49.234.122.53",    //node5-China-Jason
+    "45.154.14.247",    //node5-Tokyo-Jason
+    "68.168.100.206"    //node4-US-Eadrom
   };
 
   const char *const TESTNET_NODES[] =
   {
-    "161.97.102.172",
-    "139.99.106.122",
-    "77.93.206.172",
-    "it-support.mal-bit.com"
+    "62.171.142.111",   //node1-GB
+    "164.68.127.234",   //node2-GB
+    "79.143.181.203",   //node3-GB
+    "130.162.220.200",  //oraclenode1-Frankfurt
+    "141.144.237.74",   //oraclenode2-Frankfurt
   };
 
   const char *const STAGENET_NODES[] =
   {
-    "161.97.102.172",
-    "139.99.106.122",
-    "77.93.206.172",
-    "it-support.mal-bit.com",
-    "164.68.123.118",
-    "144.217.242.16",
-    "209.126.84.37"
+    "62.171.142.111",   //node1-GB
+    "164.68.127.234",   //node2-GB
+    "79.143.181.203",   //node3-GB
+    "130.162.220.200",  //oraclenode1-Frankfurt
+    "141.144.237.74",   //oraclenode2-Frankfurt
   };
 }
 
